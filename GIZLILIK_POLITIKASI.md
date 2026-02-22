@@ -1,6 +1,6 @@
 # AI Trivia Gizlilik Politikası
 
-**Son güncelleme:** [TARİH]
+**Son güncelleme:** 22.02.2026
 
 **Geçerlilik:** Bu Gizlilik Politikası AI Trivia mobil uygulaması ("Uygulama") kullanıcıları için geçerlidir.
 
@@ -8,7 +8,7 @@
 
 ## 1. Giriş
 
-1.1. [ŞİRKET/İSİM] ("Biz") olarak kişisel verilerinizin güvenliğine önem veriyoruz.
+1.1. AITrivia ("Biz") olarak kişisel verilerinizin güvenliğine önem veriyoruz.
 
 1.2. Bu politika, Uygulama aracılığıyla toplanan, kullanılan ve korunan verileri açıklar.
 
@@ -20,11 +20,11 @@
 
 ### 2.1. Otomatik Toplanan Veriler
 
-| Veri türü | Amaç | Yasal dayanak |
-|-----------|------|---------------|
-| Anonim kullanıcı kimliği (UID) | Hesap eşleştirme, oyun kayıtları | Hizmet sunumu |
-| Oyun verileri (kategori, skor, tarih) | Skor takibi, istatistik | Hizmet sunumu |
-| Cihaz bilgisi (platform, sürüm) | Teknik destek, uyumluluk | Meşru menfaat |
+| Veri türü                             | Amaç                             | Yasal dayanak |
+| ------------------------------------- | -------------------------------- | ------------- |
+| Anonim kullanıcı kimliği (UID)        | Hesap eşleştirme, oyun kayıtları | Hizmet sunumu |
+| Oyun verileri (kategori, skor, tarih) | Skor takibi, istatistik          | Hizmet sunumu |
+| Cihaz bilgisi (platform, sürüm)       | Teknik destek, uyumluluk         | Meşru menfaat |
 
 ### 2.2. Doğrudan Toplanmayan Veriler
 
@@ -44,13 +44,14 @@ Premium satın alma işlemleri Apple App Store veya Google Play üzerinden gerç
 ## 3. Verilerin Kullanım Amaçları
 
 3.1. Toplanan veriler aşağıdaki amaçlarla kullanılır:
+
 - Uygulama hizmetlerinin sunulması
 - Oyun geçmişi ve skorların saklanması
 - Premium satın alma durumunun doğrulanması
 - Teknik sorunların giderilmesi
 - Yasal yükümlülüklerin yerine getirilmesi
 
-3.2. Verileriniz reklam veya pazarlama amaçlı üçüncü taraflarla paylaşılmaz.
+  3.2. Verileriniz reklam veya pazarlama amaçlı üçüncü taraflarla paylaşılmaz.
 
 ---
 
@@ -70,12 +71,12 @@ Premium satın alma işlemleri Apple App Store veya Google Play üzerinden gerç
 
 ### 4.3. Üçüncü Taraf Hizmetleri
 
-| Hizmet | Veri | Konum |
-|--------|------|-------|
-| Firebase Authentication | Anonim UID | Google (ABD) |
-| Cloud Firestore | Oyun, skor verileri | Google (ABD) |
-| Cloud Functions | İşlem verileri | Google (ABD) |
-| OpenAI API | Soru üretimi (geçici) | OpenAI (ABD) |
+| Hizmet                  | Veri                  | Konum        |
+| ----------------------- | --------------------- | ------------ |
+| Firebase Authentication | Anonim UID            | Google (ABD) |
+| Cloud Firestore         | Oyun, skor verileri   | Google (ABD) |
+| Cloud Functions         | İşlem verileri        | Google (ABD) |
+| OpenAI API              | Soru üretimi (geçici) | OpenAI (ABD) |
 
 ---
 
@@ -88,15 +89,16 @@ Premium satın alma işlemleri Apple App Store veya Google Play üzerinden gerç
 ## 6. Haklarınız
 
 6.1. KVKK kapsamında aşağıdaki haklara sahipsiniz:
+
 - Erişim talep etme
 - Düzeltme talep etme
 - Silme talep etme
 - İtiraz etme
 - Veri taşınabilirliği talep etme
 
-6.2. Talepleriniz için: [E-POSTA]
+  6.2. Talepleriniz için: recepkoseoglu@hotmail.com
 
-6.3. Şikayetleriniz için Kişisel Verileri Koruma Kurumu'na (KVKK) başvurabilirsiniz.
+  6.3. Şikayetleriniz için Kişisel Verileri Koruma Kurumu'na (KVKK) başvurabilirsiniz.
 
 ---
 
@@ -104,7 +106,7 @@ Premium satın alma işlemleri Apple App Store veya Google Play üzerinden gerç
 
 7.1. Uygulama 13 yaş altı kullanıcılar için özel olarak tasarlanmamıştır. Bilinçli olarak 13 yaş altından veri toplamıyoruz.
 
-7.2. Ebeveyn/veli iseniz ve çocuğunuzun verilerinin toplandığını düşünüyorsanız [E-POSTA] üzerinden iletişime geçin.
+7.2. Ebeveyn/veli iseniz ve çocuğunuzun verilerinin toplandığını düşünüyorsanız recepkoseoglu@hotmail.com üzerinden iletişime geçin.
 
 ---
 
@@ -120,9 +122,5 @@ Premium satın alma işlemleri Apple App Store veya Google Play üzerinden gerç
 
 Gizlilik ile ilgili sorularınız için:
 
-**E-posta:** [E-POSTA]  
-**Adres:** [ADRES]
-
----
-
-*Bu politika AI Trivia uygulaması için hazırlanmıştır. Yayınlamadan önce [ŞİRKET/İSİM], [TARİH], [E-POSTA], [ADRES] alanlarını doldurunuz.*
+**E-posta:** recepkoseoglu@hotmail.com  
+**Adres:** Kadıköy / İstanbul
